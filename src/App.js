@@ -49,7 +49,7 @@ class App extends Component {
         <Resume data={this.state.resumeData.resume}/>
       
         <Portfolio data={this.state.resumeData.portfolio}/>
-        <p className="allert"> Allert! this form won't work, conntact with me on my phone num or gmail, </p>
+        <p className="allert"> Allert! this form won't work, conntact with me on my phone num or gmail. </p>
         <Contact data={this.state.resumeData.main}/>
         <Footer data={this.state.resumeData.main}/>
       </div>
