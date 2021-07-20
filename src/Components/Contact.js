@@ -94,9 +94,9 @@ class Contact extends Component {
                         <span>
                         This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.
                         Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum
-                        <a href="#">http://t.co/CGIrdxIlI3</a>
+                        <a href="https://mobile.twitter.com/Bilal97910491/status/1417083508342804487/photo/1 ">http://t.co/CGIrdxIlI3</a>
                         </span>
-                        <b><a href="#">2 Days Ago</a></b>
+                        <b><a href="https://mobile.twitter.com/Bilal97910491/status/1417083508342804487/photo/1 ">2 Days Ago</a></b>
                      </li>
                      <li>
                         <span>
