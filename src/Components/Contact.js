@@ -10,7 +10,7 @@ class Contact extends Component {
       var state = this.props.data.address.state;
       var zip = this.props.data.address.zip;
       var phone= this.props.data.phone;
-      var email = this.props.data.email;
+      // var email = this.props.data.email;
       var message = this.props.data.contactmessage;
     }
 
@@ -102,9 +102,9 @@ class Contact extends Component {
                         <span>
                         Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
                         eaque ipsa quae ab illo inventore veritatis et quasi
-                        <a href="#">http://t.co/CGIrdxIlI3</a>
+                        <a href="https://mobile.twitter.com/Bilal97910491/status/1417083508342804487/photo/1 ">http://t.co/CGIrdxIlI3</a>
                         </span>
-                        <b><a href="#">3 Days Ago</a></b>
+                        <b><a href="https://mobile.twitter.com/Bilal97910491/status/1417083508342804487/photo/1 ">3 Days Ago</a></b>
                      </li>
                   </ul>
 		         </div>
